@@ -16,3 +16,5 @@ This repository contains a **Power BI** dashboard designed to analyze and visual
 - **Units Sold**: Total number of mobile units sold.
 - **Profit Margins**: Percentage of profit earned on each product.
 - **Region-wise Contribution**: Comparison of sales across different regions.
+
+
